@@ -1,5 +1,6 @@
 #include "GPS_Path.h"
 
+
 extern Log logs;
 
 GPS_Path::GPS_Path(const std::string &f_p, const std::string &reading_file_name, PathType type, double m_l, double r_r,
